@@ -8,5 +8,7 @@ public class Main {
         System.out.println("practice_branch_dev_1.0");
 
         System.out.println("practice_branch_dev_commit_2");
+
+        System.out.println("practice_branch_commit_dev_1.0_2");
     }
 }
