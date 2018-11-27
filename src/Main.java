@@ -19,5 +19,7 @@ public class Main {
 
         System.out.println("practice_branch_commit_dev_1.0_4");
 
+        System.out.println("origin_dev_1.0.0");
+
     }
 }
