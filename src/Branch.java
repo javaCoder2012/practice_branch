@@ -1,8 +1,9 @@
 public class Branch {
-    private String name;
-    private String version ;
+
+    public String version ;
 
     public String getVersion() {
+        System.out.println("comflict");
         return version;
     }
 
@@ -12,9 +13,9 @@ public class Branch {
 
     @Override
     public String toString() {
+        System.out.println("comflict");
         return "Branch{" +
-                "name='" + name + '\'' +
-                ", version='" + version + '\'' +
+                "version='" + version + '\'' +
                 '}';
     }
 }
