@@ -1,6 +1,6 @@
 public class Branch {
-
-    public String version ;
+    private String name;
+    private String version ;
 
     public String getVersion() {
         return version;
@@ -13,7 +13,8 @@ public class Branch {
     @Override
     public String toString() {
         return "Branch{" +
-                "version='" + version + '\'' +
+                "name='" + name + '\'' +
+                ", version='" + version + '\'' +
                 '}';
     }
 }
