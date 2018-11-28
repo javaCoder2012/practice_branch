@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println("comflict.1.0");
 
+        System.out.println("comflict.2.0");
+
         System.out.println("practice_branch_commit_dev_1.0_3");
 
         System.out.println("practice_branch_commit_dev_1.0_4");
