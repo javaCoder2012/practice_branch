@@ -3,6 +3,14 @@ public class Branch {
     private String name;
     private String version ;
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public String getVersion() {
         System.out.println("comflict");
         System.out.println("comflict2");
