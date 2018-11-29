@@ -1,7 +1,15 @@
 public class Branch {
-
+    private String remark;
     private String name;
     private String version ;
+
+    public String getRemark() {
+        return remark;
+    }
+
+    public void setRemark(String remark) {
+        this.remark = remark;
+    }
 
     public String getName() {
         return name;
