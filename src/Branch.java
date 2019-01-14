@@ -3,7 +3,7 @@ public class Branch {
     private String name;
     private String version ;
 
-    private String dev_w ;
+    private String dev_w_j_l ;
 
     private String master_no_merge ;
 
