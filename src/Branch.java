@@ -7,6 +7,7 @@ public class Branch {
 
     private String master_no_merge ;
 
+    private String dev_w_l;
     private String dev_k_y ;
 
     private String dev_y ;
