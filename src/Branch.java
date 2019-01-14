@@ -7,7 +7,8 @@ public class Branch {
 
     private String master_no_merge ;
 
-    private String dev_k ;
+    private String dev_k_y ;
+
     public String getVersion() {
         System.out.println("comflict");
         System.out.println("comflict2");
