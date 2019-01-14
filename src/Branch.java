@@ -9,6 +9,8 @@ public class Branch {
 
     private String dev_k_y ;
 
+    private String dev_y ;
+
     public String getVersion() {
         System.out.println("comflict");
         System.out.println("comflict2");
