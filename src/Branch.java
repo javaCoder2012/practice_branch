@@ -3,6 +3,10 @@ public class Branch {
     private String name;
     private String version ;
 
+    private String dev_w ;
+
+    private String master_no_merge ;
+
     private String dev_k ;
     public String getVersion() {
         System.out.println("comflict");
